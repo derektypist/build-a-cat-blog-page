@@ -18,8 +18,8 @@ On [GitHub Pages](https://derektypist.github.io/build-a-cat-blog-page) at the ma
 
 ### Content
 
-Entirely ficticious.
+Entirely fictitious.
 
-### Acknowledgement
+### Acknowledgements
 
 - [FreeCodeCamp](https://www.freecodecamp.org)
